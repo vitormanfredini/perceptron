@@ -1,1 +1,1 @@
-Perceptron with backpropagation in vanilla JS
+# Perceptron with backpropagation in vanilla JS
